@@ -210,7 +210,7 @@ Here is our high-level estimate:
 
 This is the general data model which reflects our requirements.
 
-![ERD](../figures/erd.svg)
+![ERD](/figures/erd.png)
 
 We have the following tables:
 
