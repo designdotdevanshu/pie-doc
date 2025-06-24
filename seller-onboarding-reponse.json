@@ -1,0 +1,73 @@
+{
+  "currentStep": 8,
+  "formData": {
+    "signup": {
+      "fullName": "Existing User",
+      "mobile": "9876543210",
+      "email": "existing@example.com",
+      "otp": "123456",
+      "password": "Password1"
+    },
+    "businessInfo": {
+      "businessType": "individual",
+      "country": "india",
+      "legalName": "Shad Mcneil"
+    },
+    "gst": {
+      "gstin": "",
+      "withoutGst": false,
+      "exemptionReason": "turnover",
+      "gstCertificate": "",
+      "panCard": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAUFBQUHBwYHBwoJCAgJCg8KCwoLCg8WDhAODhAOFhQYExITGBQjHBgYHCMpIiAiKTEsLDE+Oz5RUW0BBAQEBAQEBQUFBQcHBgcHCgkICAkKDwoLCgsKDxYOEA4OEA4WFBgTEhMYFCMcGBgcIykiICIpMSwsMT47PlFRbf<REXT_OF_BUFFER>"
+    },
+    "storefront": {
+      "storeName": "Wilma Mayer",
+      "storeDescription": "Id quis debitis dolo",
+      "storeLocation": "Voluptas et tempore",
+      "storeLogo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAUFBQUHBwYHBwoJCAgJCg8KCwoLCg8WDhAODhAOFhQYExITGBQjHBgYHCMpIiAiKTEsLDE+Oz5RUW0BBAQEBAQEBQUFBQcHBgcHCgkICAkKDwoLCgsKDxYOEA4OEA4WFBgTEhMYFCMcGBgcIykiICIpMSwsMT47PlFRbf<REXT_OF_BUFFER>",
+      "productCategories": ["fashion"],
+      "isBrandOwner": true
+    },
+    "shipping": {
+      "shippingType": "shiprocket",
+      "shippingFee": "paid",
+      "pickupAddress": {
+        "addressLine1": "36 Nobel Avenue",
+        "addressLine2": "Ex harum voluptates ",
+        "city": "Quo facilis voluptat",
+        "state": "Telangana",
+        "pincode": "123456"
+      },
+      "returnAddressSameAsPickup": false,
+      "returnAddress": {
+        "addressLine1": "69 First Extension",
+        "addressLine2": "Suscipit est in qui",
+        "city": "Reprehenderit alias ",
+        "state": "Sikkim",
+        "pincode": "123456"
+      },
+      "packageDetails": {
+        "weight": "67",
+        "length": "3",
+        "width": "40",
+        "height": "28"
+      }
+    },
+    "bank": {
+      "accountName": "Jordan Ortega",
+      "accountNumber": "54732423423",
+      "ifscCode": "HDFC0000001",
+      "bankDocument": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAUFBQUHBwYHBwoJCAgJCg8KCwoLCg8WDhAODhAOFhQYExITGBQjHBgYHCMpIiAiKTEsLDE+Oz5RUW0BBAQEBAQEBQUFBQcHBgcHCgkICAkKDwoLCgsKDxYOEA4OEA4WFBgTEhMYFCMcGBgcIykiICIpMSwsMT47PlFRbf<REXT_OF_BUFFER>"
+    },
+    "kyc": {
+      "documentType": "aadhar",
+      "document": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAUFBQUHBwYHBwoJCAgJCg8KCwoLCg8WDhAODhAOFhQYExITGBQjHBgYHCMpIiAiKTEsLDE+Oz5RUW0BBAQEBAQEBQUFBQcHBgcHCgkICAkKDwoLCgsKDxYOEA4OEA4WFBgTEhMYFCMcGBgcIykiICIpMSwsMT47PlFRbf<REXT_OF_BUFFER>",
+      "selfie": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAUFBQUHBwYHBwoJCAgJCg8KCwoLCg8WDhAODhAOFhQYExITGBQjHBgYHCMpIiAiKTEsLDE+Oz5RUW0BBAQEBAQEBQUFBQcHBgcHCgkICAkKDwoLCgsKDxYOEA4OEA4WFBgTEhMYFCMcGBgcIykiICIpMSwsMT47PlFRbf<REXT_OF_BUFFER>"
+    },
+    "legal": {
+      "tcsCompliance": true,
+      "termsOfService": true
+    }
+  },
+  "isLastStep": true
+}
