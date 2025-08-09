@@ -1,42 +1,45 @@
 # Product Links Directory
 
-A centralized place for all essential links (Figma, GitHub, deployments) for easy team access.
+Central hub for all essential resources (design, repos, deployments) for quick team access.
 
 ---
 
-## Product Name: **Woohl**
+## Woohl
 
 ### Design
 
-- **Figma File:** [View on Figma](https://www.figma.com/design/12sGsvey4uGGk6w1udarjJ/pie-woohl)
+- **Figma:** [Woohl Design File](https://www.figma.com/design/12sGsvey4uGGk6w1udarjJ/pie-woohl)
 
 ---
 
 ## GitHub Repositories
 
-1. **Buyer Frontend:** [View on GitHub](https://github.com/designdotdevanshu/woohl)
-2. **Seller Frontend:** [View on GitHub](https://github.com/designdotdevanshu/woohl-seller)
-3. **Admin Panel:** [View on GitHub](https://github.com/designdotdevanshu/woohl-admin)
-4. **Backend API:** [View on GitHub](https://github.com/designdotdevanshu/pie-backend)
+- **Buyer Frontend:** [GitHub](https://github.com/designdotdevanshu/woohl)
+- **Seller Frontend:** [GitHub](https://github.com/designdotdevanshu/woohl-seller)
+- **Backend API:** [GitHub](https://github.com/designdotdevanshu/pie-backend)
+
+<!-- - **Admin Panel:** [GitHub](https://github.com/designdotdevanshu/woohl-admin) -->
 
 ---
 
 ## Live Deployments
 
-- **Buyer App:** [Live Preview](https://demo.woohl.com)
-- **Seller App:** [Live Preview](https://studio.woohl.com)
-- **Admin Panel:** [Live Preview](https://admin.woohl.com)
-- **Backend API:** [API Base URL](https://pie-backend-hteo.onrender.com)
+- **Buyer Frontend:** [woohl.vercel.app](https://woohl.vercel.app)
+- **Seller Frontend:** [studio.woohl.com](https://studio.woohl.com)
+- **Backend API:** [api.woohl.com](https://api.woohl.com)
+
+<!-- - **Admin Panel:** [admin.woohl.com](https://admin.woohl.com) -->
 
 ---
 
 ## Testing & QA
 
-- **Postman Collection:** [Postman Link](https://pie-backend.postman.co/workspace/6d34c357-7d9a-444b-879d-dada1ec593a3)
+- **Postman Collection:** [Workspace](https://pie-backend.postman.co/workspace/6d34c357-7d9a-444b-879d-dada1ec593a3)
 
 ---
 
 ## Documentation
 
-- **Product Wiki / Docs:** [Documentation Site](https://github.com/designdotdevanshu/pie-doc)
-- **API Docs (Postman):** [API Docs](https://documenter.getpostman.com/view/43868989/2sB2qcCgCH)
+- **Product Wiki:** [GitHub Docs](https://github.com/designdotdevanshu/pie-doc)
+- **API Docs (Postman):** [Postman Documentation](https://documenter.getpostman.com/view/43868989/2sB2qcCgCH)
+- **API Docs (Swagger):** [Swagger UI](https://developer.woohl.com)
