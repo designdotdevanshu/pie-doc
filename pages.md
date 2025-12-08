@@ -7,16 +7,16 @@ Mark each route as done when verified or implemented.
 
 ### Core Pages
 
-- [ ] [`/`](https://woohl.vercel.app) — Homepage
-- [ ] [`/_not-found`](https://woohl.vercel.app/_not-found) — 404 Not Found page
-- [ ] [`/register`](https://woohl.vercel.app/register) — User Registration
-- [ ] [`/login`](https://woohl.vercel.app/login) — User Login
-- [ ] [`/forgot-password`](https://woohl.vercel.app/forgot-password) — Password Recovery
+- [x] [`/`](https://woohl.vercel.app) — Homepage
+- [x] [`/_not-found`](https://woohl.vercel.app/_not-found) — 404 Not Found page
+- [x] [`/register`](https://woohl.vercel.app/register) — User Registration
+- [x] [`/login`](https://woohl.vercel.app/login) — User Login
+- [x] [`/forgot-password`](https://woohl.vercel.app/forgot-password) — Password Recovery
 
 ### Product & Shopping
 
 - [ ] [`/categories`](https://woohl.vercel.app/categories) — List All Product Categories
-- [ ] [`/product`](https://woohl.vercel.app/product) — Product Listing Page
+- [x] [`/product`](https://woohl.vercel.app/product) — Product Listing Page
 - [ ] [`/product/123`](https://woohl.vercel.app/product/123) — Product Detail Page (Example)
 - [ ] [`/cart`](https://woohl.vercel.app/cart) — Shopping Cart
 - [ ] [`/shop/example-shop`](https://woohl.vercel.app/shop/example-shop) — Shop or Seller Storefront (Example)
