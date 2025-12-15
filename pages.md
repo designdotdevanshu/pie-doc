@@ -17,7 +17,7 @@ Mark each route as done when verified or implemented.
 
 - [ ] [`/categories`](https://woohl.vercel.app/categories) — List All Product Categories
 - [x] [`/product`](https://woohl.vercel.app/product) — Product Listing Page
-- [ ] [`/product/123`](https://woohl.vercel.app/product/123) — Product Detail Page (Example)
+- [x] [`/product/123`](https://woohl.vercel.app/product/123) — Product Detail Page (Example)
 - [ ] [`/cart`](https://woohl.vercel.app/cart) — Shopping Cart
 - [ ] [`/shop/example-shop`](https://woohl.vercel.app/shop/example-shop) — Shop or Seller Storefront (Example)
 
